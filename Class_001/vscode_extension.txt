@@ -1,0 +1,3 @@
+Live Server
+
+Using it to launch a development local server (using to run page)
