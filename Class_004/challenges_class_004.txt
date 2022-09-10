@@ -1,0 +1,9 @@
+Search others types of loops, examples:
+
+- foreach
+- while
+
+Add condition to not repeat movies (using if).
+
+Click button and show movie in document.
+
