@@ -1,0 +1,8 @@
+
+Challenge Class 003:
+
+- Enter a number of attempts (example: 3 attempts)
+
+- Error message , inform if the number you guessed is lower than the one informed or higher.
+
+- What is the difference between two equals and three equals.
