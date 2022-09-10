@@ -1,0 +1,9 @@
+Challenge Class 02:
+
+- Convert the Brazilian BRL value to another currecy (Example: Euro)
+
+- Implement Bitcoin Value conversion (BRL to Bitcoin)
+
+- Make Another Currency Converter to calculate light velocity distance (converter kilometer to light year).
+
+- Temperature converter (celsius to fahrenheit)
