@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Alura's Dev Immersion - Aluraflix v1</title>
+    <title>Alura's Dev Immersion Class 05 - Aluraflix v2</title>
     <!-- Import Stylesheet style.css file-->
     <link rel="stylesheet" href="style.css">    
     <!-- Import JavaScript script.js file -->
@@ -13,7 +13,15 @@
           Aluraflix
         </h1>
         <img src="img/logo-imersao-aluraflix.svg" class="page-logo" alt="">
+        <p class="page-subtitle">       
+          What is your favorite movie?
+        </p>
+        <div class="form-wrapper">
+          <input type="text" id="movie" name="movie" placeholder="Insert a Movie Image URL">
+          <button onClick="addMovie()">Add Movie</button>
+        </div>
       </div>
+      <div id="listMovies"></div>
       <a href="https://alura.com.br/" target="_blank">
         <img src="img/alura-logo.svg" alt="" class="alura-logo">
       </a>
